@@ -1,1 +1,1 @@
-# Angularjs-BurgerKingApp
+# burgerKingApp
